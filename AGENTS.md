@@ -58,11 +58,11 @@
 
 ## 发布方式
 
-- GitHub 仓库：`tangyiwen11/little-phonics-dictionary`
+- GitHub 仓库：`tangyiwen11/simple_english_for_kids`
 - 默认分支：`main`
 - GitHub Actions 工作流：`.github/workflows/deploy-pages.yml`
 - 工作流构建 `dist/` 并发布到 GitHub Pages。
-- 公开地址预期为 `https://tangyiwen11.github.io/little-phonics-dictionary/`。
+- 公开地址预期为 `https://tangyiwen11.github.io/simple_english_for_kids/`。
 
 发布前必须运行：
 
