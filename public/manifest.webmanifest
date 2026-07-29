@@ -1,0 +1,22 @@
+{
+  "name": "小小自然拼读",
+  "short_name": "小小拼读",
+  "description": "一本可以发声、可以反复点的自然拼读小词典。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf7ef",
+  "theme_color": "#fbf7ef",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
